@@ -30,8 +30,17 @@ a:hover {
   background-color: #F3FE42;
   border: 5px solid black;
   border-radius: 7px;
-  margin: 30px 25%;
+  margin: 25px 25%;
   padding: 30px;
+  text-align: center;
+}
+
+.socials_div {
+  background-color: #F3FE42;
+  border: 5px solid black;
+  border-radius: 7px;
+  margin: 30px 25%;
+  padding: 10px;
   text-align: center;
 }
 
